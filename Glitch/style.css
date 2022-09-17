@@ -19,7 +19,7 @@ body{
 	cursor: pointer;
 }
 .glitch::before, .glitch::after{
-	content: 'LxaNce';
+	content: 'LxaNce-Hacker';
 	display: block;
 	position: absolute;
 	top: 0px;
