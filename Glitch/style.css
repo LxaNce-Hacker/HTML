@@ -1,3 +1,4 @@
+/* LxaNce */
 *{
 	margin: 0;
 	padding: 0;
@@ -25,12 +26,12 @@ body{
 	left: 0px;
 }
 .glitch:hover::before{
-	animation: glitch 0.3s linear 600;
+	animation: glitch 0.3s linear 6;
 	color: #e91e63;
 	z-index: -2;
 }
 .glitch:hover::after{
-	animation: glitch 0.3s linear 600 reverse;
+	animation: glitch 0.3s linear 6 reverse;
 	color: #2196f3;
 	z-index: -2;
 }
@@ -61,3 +62,4 @@ body{
 	}
 
 }
+/* LxaNce-Hacker */
