@@ -1,5 +1,5 @@
 <html>
-  <p align="center">
+  <p align="left">
 <img src=assets/default_100_percent/100-disabled.png>
 </p>
 <h1>Corona Runner</h1>
