@@ -1,9 +1,9 @@
 <p align="left">
-<img src=assets/default_100_percent/100-disabled.png>
+<img src=start/assets/default_100_percent/100-disabled.png>
 </p>
 <h1>Corona Runner</h1>
 <h3>This Game is similiar to Dynasor(chrome)game.</h3>
-<h3><a href=https://lxance-hacker.github.io/HTML/Corona-Game/>Start(Game)</h3>
+<h3><a href=https://lxance-hacker.github.io/HTML/Corona-Game/start>Start(Game)</h3>
   <h1>Want To Use Hack In This Game</h1>
   <h2>How to 👇</h2>
   <h3>Step 01: </h3><p>Firstly Start This Game</p>
